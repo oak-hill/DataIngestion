@@ -1,4 +1,4 @@
-# Week6_DataIngestion contains:
+# DataIngestion contains:
 -  A pipe-separated (|) CSV file
 - YAML file
 - testutility file
